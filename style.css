@@ -1,0 +1,12 @@
+.redTitle{
+    color : red;
+}
+.greenTitle{
+    color : green;
+}
+.centerTitle{
+    text-align: center;
+}
+.bigTitle{
+    font-size: 30px;
+}
